@@ -1,6 +1,4 @@
-server:
-  port: 8022
-spring:  application:    name: movie-service  jpa:    hibernate:      ddl-auto: update  datasource:    url: jdbc:mysql://localhost:3306/catalogue
+  jpa:    hibernate:      ddl-auto: update  datasource:    url: jdbc:mysql://localhost:3306/catalogue
     username: root
     password: saifulhaque7159
 eureka:
