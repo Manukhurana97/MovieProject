@@ -1,0 +1,4 @@
+server:
+  port: 8023
+spring:  application:    name: rental-service  cloud:    config:      uri: http://localhost:8888
+           
