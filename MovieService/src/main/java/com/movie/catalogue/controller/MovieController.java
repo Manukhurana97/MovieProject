@@ -14,7 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.movie.catalogue.model.Movie;
 import com.movie.catalogue.service.MovieService;
-
+//This is a test change for git branching
+//Another git branch test commit
 @RestController
 public class MovieController {
 	@Autowired
